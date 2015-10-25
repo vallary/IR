@@ -1,0 +1,13 @@
+<top>
+<num> Number: MB051 </num>
+<query> British Government cuts </query>
+<querytime> Tue Feb 08 23:56:46 +0000 2011 </querytime>
+<querytweettime> 35124912364457984 </querytweettime>
+</top>
+
+<top>
+<num> Number: MB052 </num>
+<query> Bedbug epidemic </query>
+<querytime> Thu Feb 03 16:24:58 +0000 2011 </querytime>
+<querytweettime> 33199275462627328 </querytweettime>
+</top>
